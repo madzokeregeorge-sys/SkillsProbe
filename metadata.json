@@ -1,0 +1,7 @@
+{
+  "name": "SkillProbe Pro",
+  "description": "An AI-powered recruitment platform using Gemini Live API to conduct real-time, conversational voice interviews based on job descriptions and resumes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
